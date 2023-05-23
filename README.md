@@ -1,4 +1,3 @@
-![logo](https://github.com/it21302176/it21302176/blob/main/RipeChiefCrow-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Shanuka Amarasinghe</h1>
 <h3 align="center">I'm an Undergraduate Student</h3>
 
