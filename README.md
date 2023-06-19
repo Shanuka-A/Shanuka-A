@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21302176&label=Profile%20views&color=0e75b6&style=flat" alt="it21302176" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shanuka-A&label=Profile%20views&color=0e75b6&style=flat" alt="Shanuka-A" /> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@shanukaudara6/broadcast-receivers-20cc30fad2ca](https://medium.com/@shanukaudara6/broadcast-receivers-20cc30fad2ca)
 
@@ -22,8 +22,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Shanuka-A"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shanuka-A" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21302176&show_icons=true&locale=en&layout=compact" alt="it21302176" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shanuka-A&show_icons=true&locale=en&layout=compact" alt="Shanuka-A" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21302176&show_icons=true&locale=en" alt="it21302176" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shanuka-A&show_icons=true&locale=en" alt="Shanuka-A" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21302176&" alt="it21302176" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shanuka-A&" alt="Shanuka-A" /></p>
